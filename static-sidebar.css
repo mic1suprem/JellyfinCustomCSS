@@ -27,7 +27,7 @@
     display: none;
 }
 
-.layout-desktop .libraryPage {
+.layout-desktop .mainAnimatedPage {
     margin-left: 250px;
     width: calc(100% - 250px);
 }
